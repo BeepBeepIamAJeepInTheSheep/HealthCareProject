@@ -1,6 +1,6 @@
 # HealthCareProject
 
-----This repository contains the frontend of the project----
+----This repository contains the backend of the project----
 
 Hospital Management website that handles staff and patient management efficiently. In this project, you can add manage or remove staff of different roles. 
 There are 3 different roles assigned which are: Doctor, Patient and Admin.
